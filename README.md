@@ -1,2 +1,2 @@
-# DynBrute
+# KOLYVA
  DynDNS Bruteforcer
